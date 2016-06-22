@@ -1,1 +1,1 @@
-origin for the clone repo
+readme content .. doesnt matter which branch or repo
