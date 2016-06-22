@@ -1,1 +1,1 @@
-hi .. this the master version of readme as it should be 
+origin for the clone repo
